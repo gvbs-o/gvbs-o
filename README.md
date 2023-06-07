@@ -1,4 +1,11 @@
-### Hi there 👋
+Olá, tudo bem? Me chamo Gabriel, tenho 20 anos de idade. Seja bem-vindo ao meu perfil!
+Bom, deixe-me contar um pouco da minha história... Desde pequeno eu sempre tive uma afinidade muito grande com tecnologia, e conforme fui crescendo, decidi que atuaria profissionalmente nessa área. Hoje sou formado em técnico em administração e estou no último módulo do curso técnico em desenvolvimento de sistemas pela Escola Técnica Dr. Emílio Hernandez Aguilar.
+Tenho como principal objetivo atuar como desenvolvedor Front-End.
+
+Linguagens de programação: JavaScript, C#, PHP. 
+Linguagens de marcação: HTML, CSS. 
+Framework’s: Bootstrap.
+
 
 <!--
 **gvbs-o/gvbs-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
