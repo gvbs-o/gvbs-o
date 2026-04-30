@@ -1,23 +1,38 @@
-Olá, tudo bem? Me chamo Gabriel, tenho 20 anos de idade. Seja bem-vindo ao meu perfil!
-Bom, deixe-me contar um pouco da minha trajetória... Desde pequeno eu sempre tive uma afinidade muito grande com tecnologia, e conforme fui crescendo, decidi que atuaria profissionalmente nessa área. Hoje sou formado em técnico em administração e estou no último módulo do curso técnico em desenvolvimento de sistemas pela Escola Técnica Dr. Emílio Hernandez Aguilar.
-Tenho como principal objetivo atuar como desenvolvedor Front-End.
+# Gabriel
 
-Linguagens de programação: JavaScript, C#, PHP. 
-Linguagens de marcação: HTML, CSS. 
-Framework’s: Bootstrap.
+### Analista de Prevenção a Fraudes | Dados & Analytics | Python | SQL | Power BI
 
+Profissional com background em **Dados, Automação e Desenvolvimento de Soluções Analíticas**, com foco na construção de projetos orientados a **performance, eficiência operacional e tomada de decisão baseada em dados**.
 
-<!--
-**gvbs-o/gvbs-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente atuando e evoluindo em:
+- Análise e tratamento de dados
+- Automação de processos com Python
+- Dashboards e visualização de dados (Power BI / Streamlit)
+- SQL e modelagem de dados
+- Prevenção a Fraudes e Analytics
+- ETL, monitoramento e otimização operacional
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Stack Principal
+- **Python** (Pandas, NumPy, Streamlit, Plotly, Automação)
+- **SQL**
+- **Power BI**
+- **Excel Avançado**
+- **Git & GitHub**
+- **Figma**
+
+---
+
+## 📊 Áreas de Interesse
+- Data Analytics
+- Fraud Prevention
+- Machine Learning
+- Business Intelligence
+- Process Automation
+- Data Visualization
+
+---
+
+## 🎯 Objetivo
+Desenvolver soluções escaláveis que integrem **análise de dados, automação e inteligência de negócios** para resolver problemas reais com abordagem analítica e visão estratégica.
