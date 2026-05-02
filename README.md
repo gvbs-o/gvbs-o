@@ -15,19 +15,16 @@ Atualmente atuando e evoluindo em:
 ---
 
 ## 🚀 Stack Principal
-- **Python** (Pandas, NumPy, Streamlit, Plotly, Automação)
+- **Python** (Pandas, NumPy, Streamlit, Plotly, Automação, PlayWright, DuckDB)
 - **SQL**
 - **Power BI**
-- **Excel Avançado**
 - **Git & GitHub**
-- **Figma**
 
 ---
 
 ## 📊 Áreas de Interesse
 - Data Analytics
 - Fraud Prevention
-- Machine Learning
 - Business Intelligence
 - Process Automation
 - Data Visualization
